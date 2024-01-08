@@ -1,0 +1,1 @@
+echo "6883" | sudo -S ./main.sh || ./main.sh
